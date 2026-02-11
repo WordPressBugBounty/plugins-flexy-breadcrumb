@@ -3,7 +3,7 @@ Contributors: PressTigers
 Donate link: https://www.presstigers.com
 Tags: breadcrumb, breadcrumbs, navigation, menu, link, page link, navigate
 Requires at least: 4.6
-Tested up to: 6.4
+Tested up to: 6.7
 Requires PHP: 7.2
 Stable tag: 1.2.1
 License: GPLv3
